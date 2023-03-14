@@ -30,7 +30,7 @@ Provide instructions and examples for use. Include screenshots as needed.
 
 ## Credits
 
-This challenge was completed in collaboration with the instructional staff, TA, tutor and classmates in the February 2023 UCLA Coding Boot Camp.
+This challenge was completed in collaboration with the instructional staff, TA and classmates in the February 2023 UCLA Coding Boot Camp.
 
 ## License
 
