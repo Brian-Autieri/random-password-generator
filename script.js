@@ -67,7 +67,7 @@ function generatePassword() {
     );
   }
 
-  // If user doesn't choose any characters, the prompt window will tell them to try again.
+  // If user doesn't select any characters, alert window will tell them to try again.
 
   var tryAgain = ('');
 
