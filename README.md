@@ -26,7 +26,7 @@ What are the steps required to install your project? Provide a step-by-step desc
 
 Provide instructions and examples for use. Include screenshots as needed.
 
-![alt text](/Assets/images/03-javascript-homework-demo.png)
+![alt text](/assets/images/03-javascript-homework-demo.png)
 
 ## Credits
 
