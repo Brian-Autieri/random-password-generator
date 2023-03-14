@@ -30,7 +30,7 @@ function generatePassword() {
     lengthOfPassword = parseInt(prompt('Enter a password length between 8 and 128 characters.'));
   }
 
-  // Lines 35-68 asks users for what characters they want their password to contain.
+  // Lines 35-68 asks users for what type of characters they want their password to contain.
 
   var containLowercase = confirm(
     'Would you like your password to contain lowercase letters?'
