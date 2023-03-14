@@ -72,7 +72,7 @@ function generatePassword() {
   var tryAgain = ('');
 
   if (!containLowercase && !containUppercase && !containNumber && !containSpecial) {
-    tryAgain = parseInt(confirm('Please try again and select at least one type of character.'));
+    tryAgain = parseInt(alert('Please try again and select at least one type of character.'));
   }
 
   var result = [];
