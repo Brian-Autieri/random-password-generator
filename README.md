@@ -16,6 +16,8 @@ https://brian-autieri.github.io/random-password-generator/
 
 Users can follow the link to the deployed webpage to access the random password generator. Once on the page, users can click on the "Generate Password" button and follow the instructions on the prompts to receive their new password.
 
+### Webpage Screenshot
+
 ![alt text](/images/03-javascript-homework-demo.png)
 
 ## Credits
