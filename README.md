@@ -22,7 +22,7 @@ https://brian-autieri.github.io/random-password-generator/
 
 ## Credits
 
-This challenge was completed in collaboration with the instructional staff, TA and classmates in the February 2023 UCLA Coding Boot Camp.
+This challenge was completed in collaboration with the instructional staff, TA and classmates in the February 2023 UCLA Extension Coding Boot Camp.
 
 ## License
 
